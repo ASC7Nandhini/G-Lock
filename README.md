@@ -1,4 +1,4 @@
-#G-Lock
+**G-Lock**
 G-LOCK is a web application that helps the user improve their mental health by suggesting activities, videos, music, memes etc.
 
 It provides training to overcome fears such as fear for public speaking etc by allocating points and increasing them as the activities are completed.
